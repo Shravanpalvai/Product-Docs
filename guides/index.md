@@ -1,7 +1,9 @@
 # Guides
 
-Browse all guides in the `guides/` section:
+Practical how-to instructions for the TechTotal Test Project.
 
-- [Installation guide](installation.html) — example product installation instructions.
+## Available guides
 
-[Return to the Product Docs home page](../index.html).
+- [Installation guide](installation.html) — example product setup instructions.
+
+[← Browse all documentation](../docs/index.html) · [← Back to the TechTotal home page](../index.html)

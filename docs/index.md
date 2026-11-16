@@ -1,9 +1,22 @@
 # Documentation
 
-Browse all pages in the `docs/` section:
+Welcome to the TechTotal documentation portal. Choose a section or jump directly to a page.
 
-- [Product overview](overview.html) — audience and documentation principles.
-- [Getting started](getting-started.html) — explore the docs and learn the contribution workflow.
-- [API reference](api-reference.html) — sample API documentation.
+## Product documentation
 
-[Return to the Product Docs home page](../index.html).
+| Page | Description |
+| --- | --- |
+| [Product overview](overview.html) | Purpose, audience, and documentation principles. |
+| [Getting started](getting-started.html) | A suggested path for exploring the project. |
+| [API reference](api-reference.html) | Sample API information. |
+
+## Guides
+
+- [Installation guide](../guides/installation.html) — example setup instructions.
+- [Browse all guides](../guides/index.html).
+
+## Support
+
+- [Contact and support](contact-support.html) — get in touch with the project contact.
+
+[← Back to the TechTotal home page](../index.html)

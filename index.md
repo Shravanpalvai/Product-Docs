@@ -1,45 +1,41 @@
-<div align="center">
-
 # TechTotal Test Project
 
 ![TechTotal project banner](assets/images/techtotal-hero.jpg)
 
-**A technical writing and documentation-as-code demo.**
+**A practical documentation-as-code demo.** Explore product information, setup guidance, and sample API documentation in one place.
 
-Explore product documentation, practical guides, and sample API information—all maintained as Markdown in GitHub.
+![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-blue)
 
-[Browse documentation](docs/index.html) · [Read the getting-started guide](docs/getting-started.html) · [View the project README](README.html)
-
-</div>
+[**Browse the documentation →**](docs/index.html) · [Getting started](docs/getting-started.html) · [Contact support](docs/contact-support.html)
 
 ---
 
-## Quick links
+## Find what you need
 
-| What you need | Page |
-| --- | --- |
-| Browse all documentation | [Documentation index](docs/index.html) |
-| Learn about the project | [Product overview](docs/overview.html) |
-| Start exploring | [Getting started](docs/getting-started.html) |
-| Find sample API information | [API reference](docs/api-reference.html) |
-| Follow setup instructions | [Installation guide](guides/installation.html) |
-| Browse all guides | [Guides index](guides/index.html) |
+### Product documentation
 
-## Project overview
+- [Product overview](docs/overview.html) — purpose, audience, and documentation principles.
+- [Getting started](docs/getting-started.html) — how to explore this project.
+- [API reference](docs/api-reference.html) — sample API information.
+- [All documentation pages](docs/index.html) — browse the complete documentation list.
 
-TechTotal Test Project demonstrates how product documentation can be written, reviewed, and maintained alongside code. The pages are examples for practicing clear, task-focused technical writing with Markdown and GitHub.
+### Guides
 
-## Release and version notes
+- [Installation guide](guides/installation.html) — example setup instructions.
+- [All guides](guides/index.html) — browse the guides collection.
 
-**Current status:** Demo project · **Version:** 1.0.0
+## About this project
 
-This is a practice project. No production release notes are available yet. Add entries here as the project’s documentation or product evolves.
+TechTotal Test Project demonstrates how product documentation can be written, reviewed, and maintained alongside code. Its pages are examples for practicing clear, task-focused technical writing with Markdown and GitHub.
+
+## Release notes
+
+**Version 1.0.0 · Demo project**
+
+This is a practice project; no production release notes are available. Update this section as the project evolves.
 
 ## Contact and support
 
-For questions about this demo, contact:
+Need help or have a question? Visit the [Contact and support page](docs/contact-support.html).
 
-- **Email:** [shraavan@xyz.com](mailto:shraavan@xyz.com)
-- **Phone:** [123123123123](tel:123123123123)
-
-> This repository and its Pages site are public. The contact details above will be visible to anyone who can access them.
+> This repository and its Pages site are public. The contact details published on the support page are visible to anyone.
