@@ -1,4 +1,4 @@
-# Getting Started Updated by Shravan
+# Getting Started
 
 This guide explains how to set up the product.
 
