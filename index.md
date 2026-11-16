@@ -1,7 +1,8 @@
 <div align="center">
 
 # TechTotal Test Project
-[TechTotal project banner](assets/images/techtotal-hero.jpg)
+
+![TechTotal project banner](assets/images/techtotal-hero.jpg)
 
 **A technical writing and documentation-as-code demo.**
 
