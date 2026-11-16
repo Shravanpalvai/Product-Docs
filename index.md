@@ -7,6 +7,7 @@ Welcome to **Product Docs**, a technical-writing documentation-as-code demo. Thi
 - [Project README](README.md) — purpose, repository structure, and suggested workflow.
 - [Product overview](docs/overview.md) — audience and documentation principles.
 - [Getting started](docs/getting-started.md) — explore the docs and learn the contribution workflow.
+- [API reference](docs/api-reference.md) — sample API documentation.
 
 ## Guides
 
