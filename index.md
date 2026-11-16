@@ -8,7 +8,7 @@ Welcome to **Product Docs**, a technical-writing documentation-as-code demo. Bro
 - [Product overview](docs/overview.html)
 - [Getting started](docs/getting-started.html)
 - [API reference](docs/api-reference.html)
-- [IG](guides/installation.html)
+- [Installation guide](guides/installation.html)
 
 ## Guides
 
